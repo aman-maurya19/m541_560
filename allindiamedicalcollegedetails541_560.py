@@ -34,7 +34,7 @@ BASE_URL = [
   "https://www.shiksha.com/college/national-institute-of-management-and-research-studies-andheri-east-mumbai-101553",
   "https://www.shiksha.com/college/jss-ayurvedic-medical-college-and-hospital-mysore-68239",
   "https://www.shiksha.com/college/government-dental-college-and-hospital-nagpur-62777",
-  "https://www.shiksha.com/college/north-eastern-indira-gandhi-regional-institute-of-health-and-medical-sciences-shillong-63065",,
+  "https://www.shiksha.com/college/north-eastern-indira-gandhi-regional-institute-of-health-and-medical-sciences-shillong-63065",
 ]
 
 
